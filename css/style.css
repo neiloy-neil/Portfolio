@@ -1,0 +1,15 @@
+body{
+    font-family:'Open Sans', sans-serif;
+}
+.banner-container{
+    background-color: aliceblue;
+}
+.banner-column{
+    background-color: rgb(103, 109, 107);
+}
+.navbar-container{
+    background-color: rgb(117, 117, 129);
+}
+.about-container{
+    background-color: aquamarine;
+}
